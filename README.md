@@ -5,3 +5,5 @@
 ## 3 - npm i -D vite@3.1.4 @vitejs/plugin-react@2.1.0
 
 ## 4 - npm i react@18.2.0 react-dom@18.2.0
+
+## 5 - npm install -D eslint-plugin-react-hooks@4.6.0
